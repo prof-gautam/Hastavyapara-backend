@@ -3,6 +3,10 @@
 This is the **Node.js + Express + MongoDB Backend** for the Ecommerce platform called Hastavyapara.
 It provides secure REST APIs for user authentication, product management, orders, and admin dashboard functionality.
 
+## Hastavyapara- Frontend
+
+[## Hastavyapara- Frontend](https://github.com/prof-gautam/Hastavyapara-frontend)
+
 ## Project Purpose
 
 - Backend REST API for ecommerce store

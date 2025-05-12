@@ -22,8 +22,6 @@ It provides secure REST APIs for user authentication, product management, orders
 - MongoDB + Mongoose
 - JWT Authentication
 - bcrypt password hashing
-- Mailgun (email service)
-- Dockerized setup support
 
 ## Setup Instructions
 
@@ -75,14 +73,6 @@ npm run seed:db admin@example.com password123
 
 A full **Postman collection** is included in `/docs/postman_collection.json`
 or import the latest collection provided for testing all endpoints.
-
-## Sample Test Users (Optional)
-
-| Role     | Email                | Password    |
-| -------- | -------------------- | ----------- |
-| Admin    | admin@example.com    | password123 |
-| Merchant | merchant@example.com | password123 |
-| User     | user@example.com     | password123 |
 
 ## Screenshots
 
